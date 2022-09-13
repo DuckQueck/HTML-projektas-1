@@ -1,0 +1,443 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"col",
+				"column-reverse"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"light",
+				"lightcoral"
+			],
+			[
+				"lightr",
+				"lightcoral"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"a",
+				"announcement"
+			],
+			[
+				"red",
+				"darkgoldenrod"
+			],
+			[
+				"gold",
+				"darkgoldenrod"
+			],
+			[
+				"ligh",
+				"lightgoldenrodyellow"
+			],
+			[
+				"contr",
+				"container-fluid"
+			],
+			[
+				"bord",
+				"border-color\tproperty"
+			],
+			[
+				"bo",
+				"bootstrap"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"m",
+				"main\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"ee",
+				"ee0099"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"t",
+				"th\tTag"
+			],
+			[
+				"f",
+				"fieldset\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"i",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/moksleivis/Desktop/HTML basics/naujiena/index.html",
+		"/home/moksleivis/Desktop/HTML basics/index.html",
+		"/home/moksleivis/Desktop/HTML basics/Formos/index.html",
+		"/home/moksleivis/Desktop/HTML basics/HTML",
+		"/opt/lampp/htdocs/biletas/style.css",
+		"/home/moksleivis/Lukas/10darbas/index.html",
+		"/home/moksleivis/Lukas/10darbas/style.css",
+		"/opt/lampp/htdocs/test/data/view/index.php",
+		"/home/moksleivis/Lukas/9darbas/style.css",
+		"/home/moksleivis/Lukas/9darbas/index.html",
+		"/home/moksleivis/Lukas/8 darbas/style.css",
+		"/home/moksleivis/Lukas/8 darbas/index.html",
+		"/home/moksleivis/Lukas/6 darbas/index.html",
+		"/home/moksleivis/Lukas/7 darbas/style.css",
+		"/home/moksleivis/Lukas/7 darbas/index.html",
+		"/home/moksleivis/Lukas/5.5darbas/index.html",
+		"/home/moksleivis/Lukas/6 darbas/style.css",
+		"/home/moksleivis/Lukas/5.5darbas/style.css",
+		"/home/moksleivis/Lukas/5 darbas/index.html",
+		"/home/moksleivis/Lukas/1 Darbas/index.html",
+		"/home/moksleivis/Lukas/3 darbas/index.html",
+		"/home/moksleivis/Lukas/5 darbas/style/style.css",
+		"/home/moksleivis/Lukas/2 Darbas/index.html",
+		"/home/moksleivis/Lukas/4 darbas/index.html",
+		"/home/moksleivis/Lukas/1 Darbas/Naujiena1/index.html",
+		"/home/moksleivis/Lukas/Naujashtml/index.html",
+		"/home/moksleivis/Lukas/index.html",
+		"/home/moksleivis/Lukas/Naujiena1/index.html",
+		"/home/moksleivis/Inga/Bootstrap_site 10-08/index.html",
+		"/home/moksleivis/Inga/Bootstrap_site 10-08/css/bootstrap-grid.min.css.map",
+		"/home/moksleivis/Inga/Bootstrap_site 10-08/js/bootstrap.js",
+		"/home/moksleivis/Inga/Bootstrap_site 10-08/css/custome.css",
+		"/home/moksleivis/Inga/Bootstrap_site 10-08/js/bootstrap.bundle.js",
+		"/home/moksleivis/Inga/CSS_layout/css/style.css",
+		"/media/moksleivis/KINGSTON/acme_website/acme/css/style.css",
+		"/media/moksleivis/KINGSTON/acme_website/acme/index.html",
+		"/home/moksleivis/Inga/Sofa/index.html",
+		"/media/moksleivis/KINGSTON/acme_website/acme/about.html",
+		"/home/moksleivis/Inga/Layout/index.htm",
+		"/home/moksleivis/Inga/CSS_layout/index.html",
+		"/media/moksleivis/KINGSTON/Zygimantas/Sofa/index.html",
+		"/media/moksleivis/KINGSTON/index.html",
+		"/media/moksleivis/KINGSTON/aistesdarbas.html",
+		"/home/moksleivis/Documents/Deividas/Sofa/sofa.html",
+		"/home/moksleivis/Documents/Deividas/Sofa/sofa.css",
+		"/home/moksleivis/Documents/Deividas/Css/Sofa.html",
+		"/home/moksleivis/Documents/Deividas/Css/index.html",
+		"/home/moksleivis/Documents/Deividas/Css/sofa.html",
+		"/home/moksleivis/Documents/Deividas/Css/sofa.css",
+		"/home/moksleivis/Documents/Deividas/Css/css.css",
+		"/home/moksleivis/Documents/Deividas/Css/style.css",
+		"/home/moksleivis/Documents/Deividas/Css/CSSSSSLENTELES.html",
+		"/home/moksleivis/Documents/Deividas/Css/csslenteles.css",
+		"/home/moksleivis/Inga/CSS_pamoka/index.html",
+		"/home/moksleivis/Inga/CSS_pamoka/css/style.css",
+		"/home/moksleivis/Inga/CSS/index.html",
+		"/media/moksleivis/KINGSTON/CA Kursai_Projects/Pilnas tinklapis HTML/index.html",
+		"/home/moksleivis/Documents/Deividas/Sunys lentele/Sunys.html",
+		"/home/moksleivis/Documents/Deividas/9-21.html",
+		"/home/moksleivis/Desktop/css.css",
+		"/home/moksleivis/Desktop/CSSSSS.html",
+		"/home/moksleivis/Desktop/cssss.css",
+		"/home/moksleivis/Desktop/index.html",
+		"/home/moksleivis/Documents/Deividas/Css/CSs.html",
+		"/home/moksleivis/Documents/Deividas/Css/csS.css",
+		"/home/moksleivis/Documents/Deividas/Css/CSs",
+		"/home/moksleivis/Documents/Deividas/CSS.html.html",
+		"/home/moksleivis/Documents/Deividas/CSS.html",
+		"/home/moksleivis/Documents/Css.html",
+		"/home/moksleivis/Documents/Deividas/CSS.css/CsS.css",
+		"/home/moksleivis/Documents/Deividas/Prototipas.html",
+		"/home/moksleivis/Documents/Deividas/CSS/CSS.css",
+		"/home/moksleivis/Documents/Deividas/css.html",
+		"/home/moksleivis/Documents/html_Ramo2uz/index.html",
+		"/home/moksleivis/Documents/html_Ramo2uz/puslapis/index.html",
+		"/home/moksleivis/Documents/html_Ramo2uz/Blank Document",
+		"/home/moksleivis/Documents/HTML_Ramas 2020/index.html",
+		"/home/moksleivis/Documents/html_Ramo2uz/index",
+		"/home/moksleivis/Documents/Deividas/LentelesForma.html",
+		"/home/moksleivis/Documents/Deividas/Uzpildymas.html",
+		"/home/moksleivis/Documents/Deividas/HTML5.html",
+		"/home/moksleivis/Inga/Forma/index.html",
+		"/home/moksleivis/Inga/Forma/forma.html",
+		"/home/moksleivis/Inga/Forma/lentele.html",
+		"/home/moksleivis/Inga/index.html",
+		"/home/moksleivis/Documents/uzduotis/index.html",
+		"/home/moksleivis/Documents/Deividas/Lentele.html",
+		"/home/moksleivis/Documents/newform.html",
+		"/home/moksleivis/Documents/Pirmadienis.html",
+		"/home/moksleivis/Desktop/FORMA",
+		"/home/moksleivis/Documents/HTML_Ramas 2020/git.html",
+		"/home/moksleivis/Desktop/untitled",
+		"/home/moksleivis/Documents/Deividas/untitled",
+		"/home/moksleivis/Documents/Forma/untitled",
+		"/home/moksleivis/Documents/Forma/DeividasNaujaforma",
+		"/home/moksleivis/Documents/Forma/uzduotis/uzduotis.html",
+		"/home/moksleivis/Documents/Forma/index.html",
+		"/home/moksleivis/Documents/HTML_Ramo_uzduotis2/index.html",
+		"/home/moksleivis/Documents/HTML_Ramas 2020/Naujiena",
+		"/home/moksleivis/htm-basics/index.html",
+		"/home/moksleivis/htm-basics/Naujiena/index.html"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
